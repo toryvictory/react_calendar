@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+  color: red;
+}
+
+.input {
+  font-size: 30px;
+}
